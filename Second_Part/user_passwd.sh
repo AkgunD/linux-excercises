@@ -29,3 +29,4 @@ then
 else 
   echo 'Try again.'
 fi
+passwd -e ${USER_NAME}
